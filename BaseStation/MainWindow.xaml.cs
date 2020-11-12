@@ -30,11 +30,14 @@ namespace SideMenuListControl
         public MainWindow()
         {
             InitializeComponent();
-            availablePorts.ItemsSource = SerialPort.GetPortNames();
             ArduinoConnectedPort.DataReceived += Mainport_DataReceived;
-            
+            DispatcherTimer timer = new DispatcherTimer();
+            timer.Interval = TimeSpan.FromSeconds(0.5);
+            timer.Tick += timer_Tick;
+            timer.Start();
+
             //this is to set default page on application startup such as dashboard...etc..
-          //  frame.Navigate(new Uri("Page1.xaml", UriKind.RelativeOrAbsolute));
+            //  frame.Navigate(new Uri("Page1.xaml", UriKind.RelativeOrAbsolute));
 
 
         }
@@ -55,6 +58,23 @@ namespace SideMenuListControl
                         frame.Navigate(new Uri("Page2.xaml", UriKind.RelativeOrAbsolute));
                         break;
                 }
+            }
+        }
+
+        void timer_Tick(object sender, EventArgs e)
+        {
+            if (!ArduinoConnectedPort.IsOpen)
+            {
+                connectbutton.Content = "Connect";
+                availablePorts.ItemsSource = SerialPort.GetPortNames();
+                availablePorts.Visibility = Visibility.Visible;
+                connectbutton.Visibility = Visibility.Visible;
+                received.Visibility = Visibility.Visible;
+                frame.Visibility = Visibility.Hidden;
+            }
+            else
+            {
+                frame.Visibility = Visibility.Visible;
             }
         }
 

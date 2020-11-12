@@ -21,8 +21,6 @@ C:\Users\Jacob Monger\Documents\GIT\3rd-Year-group-project-20-21\BaseStation\obj
 C:\Users\Jacob Monger\Documents\GIT\3rd-Year-group-project-20-21\BaseStation\obj\Debug\SideMenuListControl.csproj.CoreCompileInputs.cache
 C:\Users\Jacob Monger\Documents\GIT\3rd-Year-group-project-20-21\BaseStation\obj\Debug\SideMenuListControl.exe
 C:\Users\Jacob Monger\Documents\GIT\3rd-Year-group-project-20-21\BaseStation\obj\Debug\SideMenuListControl.pdb
-C:\Users\Jacob Monger\Documents\GIT\3rd-Year-group-project-20-21\BaseStation\obj\Debug\SerialConnect.g.cs
-C:\Users\Jacob Monger\Documents\GIT\3rd-Year-group-project-20-21\BaseStation\obj\Debug\SerialConnect.baml
 C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\bin\Debug\SideMenuListControl.exe.config
 C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\bin\Debug\SideMenuListControl.exe
 C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\bin\Debug\SideMenuListControl.pdb

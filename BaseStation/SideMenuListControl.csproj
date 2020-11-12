@@ -108,9 +108,6 @@
     <Compile Include="Page2.xaml.cs">
       <DependentUpon>Page2.xaml</DependentUpon>
     </Compile>
-    <Compile Include="SerialConnect.xaml.cs">
-      <DependentUpon>SerialConnect.xaml</DependentUpon>
-    </Compile>
     <Compile Include="ViewModel.cs" />
     <Page Include="Custom Controls\SideMenuControl.xaml">
       <SubType>Designer</SubType>
@@ -137,10 +134,6 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Page2.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="SerialConnect.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

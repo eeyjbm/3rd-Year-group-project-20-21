@@ -20,7 +20,7 @@ namespace SideMenuListControl
             get {
                 return new List<MenuItemsData> { 
                 new MenuItemsData(){ PathData= (PathGeometry)dict["HomeIcon"], MenuText="Home" },
-                new MenuItemsData(){ PathData = (PathGeometry)dict["MailIcon"], MenuText="Mail" } };
+                new MenuItemsData(){ PathData = (PathGeometry)dict["MailIcon"], MenuText="Port" } };
             }}
     }
 

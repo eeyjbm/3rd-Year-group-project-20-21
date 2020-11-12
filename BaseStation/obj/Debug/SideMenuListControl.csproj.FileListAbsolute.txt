@@ -23,3 +23,26 @@ C:\Users\Jacob Monger\Documents\GIT\3rd-Year-group-project-20-21\BaseStation\obj
 C:\Users\Jacob Monger\Documents\GIT\3rd-Year-group-project-20-21\BaseStation\obj\Debug\SideMenuListControl.pdb
 C:\Users\Jacob Monger\Documents\GIT\3rd-Year-group-project-20-21\BaseStation\obj\Debug\SerialConnect.g.cs
 C:\Users\Jacob Monger\Documents\GIT\3rd-Year-group-project-20-21\BaseStation\obj\Debug\SerialConnect.baml
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\bin\Debug\SideMenuListControl.exe.config
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\bin\Debug\SideMenuListControl.exe
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\bin\Debug\SideMenuListControl.pdb
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\SideMenuListControl.csprojAssemblyReference.cache
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\Custom Controls\SideMenuControl.g.cs
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\MainWindow.g.cs
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\Page1.g.cs
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\Page2.g.cs
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\App.g.cs
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\SideMenuListControl_MarkupCompile.cache
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\SideMenuListControl_MarkupCompile.lref
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\Custom Controls\SideMenuControl.baml
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\IconDictionary.baml
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\MainWindow.baml
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\Page1.baml
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\Page2.baml
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\SideMenuListControl.g.resources
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\SideMenuListControl.Properties.Resources.resources
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\SideMenuListControl.csproj.GenerateResource.cache
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\SideMenuListControl.csproj.CoreCompileInputs.cache
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\SideMenuListControl.exe
+C:\Users\Jacob Monger\Desktop\3rd-Year-group-project-20-21\BaseStation\obj\Debug\SideMenuListControl.pdb

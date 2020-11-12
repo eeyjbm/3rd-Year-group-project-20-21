@@ -49,13 +49,28 @@ namespace SideMenuListControl
                 availablePorts.Visibility = Visibility.Collapsed;
                 connectbutton.Visibility = Visibility.Collapsed;
                 received.Visibility = Visibility.Collapsed;
+                title.Visibility = Visibility.Collapsed;
                 switch (MenuList.SelectedIndex)
                 {
                     case 0:
+                        frame.Visibility = Visibility.Visible;
                         frame.Navigate(new Uri("Page1.xaml", UriKind.RelativeOrAbsolute));
                         break;
                     case 1:
+                        frame.Visibility = Visibility.Visible;
                         frame.Navigate(new Uri("Page2.xaml", UriKind.RelativeOrAbsolute));
+                        break;
+                    case 2:
+                        frame.Visibility = Visibility.Hidden;
+                        availablePorts.ItemsSource = SerialPort.GetPortNames();
+                        availablePorts.Visibility = Visibility.Visible;
+                        connectbutton.Visibility = Visibility.Visible;
+                        received.Visibility = Visibility.Visible;
+                        title.Visibility = Visibility.Visible;
+                        break;
+                    case 3:
+                        frame.Visibility = Visibility.Visible;
+                        frame.Navigate(new Uri("Settings.xaml", UriKind.RelativeOrAbsolute));
                         break;
                 }
             }
@@ -70,11 +85,9 @@ namespace SideMenuListControl
                 availablePorts.Visibility = Visibility.Visible;
                 connectbutton.Visibility = Visibility.Visible;
                 received.Visibility = Visibility.Visible;
+                title.Visibility = Visibility.Visible;
+
                 frame.Visibility = Visibility.Hidden;
-            }
-            else
-            {
-                frame.Visibility = Visibility.Visible;
             }
         }
 
@@ -152,13 +165,31 @@ namespace SideMenuListControl
                             availablePorts.Visibility = Visibility.Collapsed;
                             connectbutton.Visibility = Visibility.Collapsed;
                             received.Visibility = Visibility.Collapsed;
+                            title.Visibility = Visibility.Collapsed;
+
                             switch (MenuList.SelectedIndex)
                             {
                                 case 0:
+                                    frame.Visibility = Visibility.Visible;
                                     frame.Navigate(new Uri("Page1.xaml", UriKind.RelativeOrAbsolute));
                                     break;
                                 case 1:
+                                    frame.Visibility = Visibility.Visible;
                                     frame.Navigate(new Uri("Page2.xaml", UriKind.RelativeOrAbsolute));
+                                    break;
+
+                                case 2:
+                                    frame.Visibility = Visibility.Hidden;
+                                    availablePorts.ItemsSource = SerialPort.GetPortNames();
+                                    availablePorts.Visibility = Visibility.Visible;
+                                    connectbutton.Visibility = Visibility.Visible;
+                                    received.Visibility = Visibility.Visible;
+                                    title.Visibility = Visibility.Visible;
+
+                                    break;
+                                case 3:
+                                    frame.Visibility = Visibility.Visible;
+                                    frame.Navigate(new Uri("Settings.xaml", UriKind.RelativeOrAbsolute));
                                     break;
                             }
                         }

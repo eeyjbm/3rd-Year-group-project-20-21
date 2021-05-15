@@ -1,0 +1,46 @@
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\bin\Debug\LiveCharts.dll
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\bin\Debug\LiveCharts.pdb
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\bin\Debug\LiveCharts.xml
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Formula Student Base Station.csprojAssemblyReference.cache
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\MainWindow.baml
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Views\AlertView.baml
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Views\ConnectView.baml
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Views\DashboardView.baml
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Views\ECUView.baml
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Views\KistlerView.baml
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Views\LeftInverterView.baml
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Views\RightInverterView.baml
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Views\SettingsView.baml
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Views\TemperatureView.baml
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\App.baml
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\MainWindow.g.cs
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Views\AlertView.g.cs
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Views\ConnectView.g.cs
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Views\DashboardView.g.cs
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Views\ECUView.g.cs
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Views\KistlerView.g.cs
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Views\LeftInverterView.g.cs
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Views\RightInverterView.g.cs
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Views\SettingsView.g.cs
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Views\TemperatureView.g.cs
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\App.g.cs
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\FSBaseStation.Properties.Resources.resources
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Formula Student Base Station.csproj.GenerateResource.cache
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Formula Student Base Station.csproj.CoreCompileInputs.cache
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Formula Student Base Station.csproj.CopyComplete
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\bin\Debug\Formula Student Base Station.exe.config
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\bin\Debug\Formula Student Base Station.exe.manifest
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\bin\Debug\Formula Student Base Station.application
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\bin\Debug\Formula Student Base Station.exe
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\bin\Debug\Formula Student Base Station.pdb
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Formula Student Base Station_MarkupCompile.cache
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Formula Student Base Station_MarkupCompile.lref
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Formula Student Base Station.g.resources
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Formula Student Base Station.exe.manifest
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Formula Student Base Station.application
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Formula Student Base Station.exe
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\Formula Student Base Station.pdb

@@ -1,0 +1,20 @@
+﻿Formula Student Base Station
+
+
+winexe
+C#
+.cs
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Release\
+FSBaseStation
+none
+false
+TRACE
+C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\App.xaml
+10-128534548
+
+31256086388
+151965752003
+MainWindow.xaml;Views\AlertView.xaml;Views\ConnectView.xaml;Views\DashboardView.xaml;Views\ECUView.xaml;Views\KistlerView.xaml;Views\LeftInverterView.xaml;Views\RightInverterView.xaml;Views\SettingsView.xaml;Views\TemperatureView.xaml;
+
+False
+

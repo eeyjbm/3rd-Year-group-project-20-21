@@ -1,28 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <assemblyIdentity name="Formula Student Base Station.application" version="1.0.0.12" publicKeyToken="696d3d7a7c17d870" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" />
-  <description asmv2:publisher="Formula Student Base Station" asmv2:product="Formula Student Base Station" xmlns="urn:schemas-microsoft-com:asm.v1" />
-  <deployment install="true" mapFileExtensions="true" co.v1:createDesktopShortcut="true">
-    <subscription>
-      <update>
-        <beforeApplicationStartup />
-      </update>
-    </subscription>
-    <deploymentProvider codebase="http://desktop-fudg66n/autoupdate/Formula%20Student%20Base%20Station.application" />
-  </deployment>
+  <assemblyIdentity name="Formula Student Base Station.application" version="2.0.0.6" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <description asmv2:publisher="Jacob Monger" asmv2:product="Formula Student Base Station" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <deployment install="true" co.v1:createDesktopShortcut="true" />
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\Formula Student Base Station_1_0_0_12\Formula Student Base Station.exe.manifest" size="9146">
-      <assemblyIdentity name="Formula Student Base Station.exe" version="1.0.0.12" publicKeyToken="696d3d7a7c17d870" language="neutral" processorArchitecture="x86" type="win32" />
+    <dependentAssembly dependencyType="install" codebase="Application Files\Formula Student Base Station_2_0_0_6\Formula Student Base Station.exe.manifest" size="5440">
+      <assemblyIdentity name="Formula Student Base Station.exe" version="2.0.0.6" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>X6L6ne9FqqG/jCq68wdmT9fWxRux8sd5uzU045kFcDY=</dsig:DigestValue>
+        <dsig:DigestValue>cZFRgnAL8eP6JxNQABt9B1daS0c7Rny37dEc7zlNWNY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-<publisherIdentity name="CN=DESKTOP-FUDG66N\Jacob Monger" issuerKeyHash="c9b7fc5a65d4640a75670b713a82135610725f0e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>bc+EbBlg0kJ782pu61myvQaL4KQdym72x5qrxRgvX2Y=</DigestValue></Reference></SignedInfo><SignatureValue>mZx4s0kgxKxyludYBQpMIj3S/GjwPhAkP7GXFZJ6SJh9qYrfXcjz3uArsC3AwjGpr8r5N/CxeuJEY0WP4FN+f0zEijbVt7ZEQUunBlEA/YkDmmVODwX2KHbkkDGGDWP2mdlfJDMQtXcD0u0x6Q/GEHiofp73bJjO2YRFBKxBels=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>0iA8nJuK5PvA9vjtjEayhenYH1ZFntJ7FUi9qjyKTP/5lOYnjhvVYnfuMD3OxbtjSRivH0CA3ZX6mYhzfY8FkIzCGokLF0bpRSgggae2wNnNssQ4bbMfqIHKQbiulbGrWTphMrUBAo8YsruW0T3HGJzKJA+dRXTnxIyGEVnF3Bk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="665f2f18c5ab9ac7f66eca1da4e08b06bdb259eb6e6af37b42d260196c84cf6d" Description="" Url=""><as:assemblyIdentity name="Formula Student Base Station.application" version="1.0.0.12" publicKeyToken="696d3d7a7c17d870" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-FUDG66N\Jacob Monger</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>R5ql8+SNYnp+kwwiZ+aEZqMT+4SMH+2Yc8J4/QJJArk=</DigestValue></Reference></SignedInfo><SignatureValue>ixVpuKiEJYqtoaWTkSiP4cTqq4fn3fokfZg/UBWKNrHb3QbS6hQnfkJ2sS+5FnKwM01hXpuczIxU7DP9U/6IKEEVyPOwOYRHrtozKSHeO2azWrqRW2RpxN/2psrQZ42HhooSW+JNjV7lLxSYXo/yQ/IK5kJEYc6gV58ARpUCHv8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>0iA8nJuK5PvA9vjtjEayhenYH1ZFntJ7FUi9qjyKTP/5lOYnjhvVYnfuMD3OxbtjSRivH0CA3ZX6mYhzfY8FkIzCGokLF0bpRSgggae2wNnNssQ4bbMfqIHKQbiulbGrWTphMrUBAo8YsruW0T3HGJzKJA+dRXTnxIyGEVnF3Bk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICCTCCAXKgAwIBAgIQekQlqffUHrVCS7JEvNh+xDANBgkqhkiG9w0BAQsFADBDMUEwPwYDVQQDHjgARABFAFMASwBUAE8AUAAtAEYAVQBEAEcANgA2AE4AXABKAGEAYwBvAGIAIABNAG8AbgBnAGUAcjAeFw0yMTA1MTQxNjM4MzVaFw0yMjA1MTQyMjM4MzVaMEMxQTA/BgNVBAMeOABEAEUAUwBLAFQATwBQAC0ARgBVAEQARwA2ADYATgBcAEoAYQBjAG8AYgAgAE0AbwBuAGcAZQByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDSIDycm4rk+8D2+O2MRrKF6dgfVkWe0nsVSL2qPIpM//mU5ieOG9Vid+4wPc7Fu2NJGK8fQIDdlfqZiHN9jwWQjMIaiQsXRulFKCCBp7bA2c2yxDhtsx+ogcpBuK6VsatZOmEytQECjxiyu5bRPccYnMokD51FdOfEjIYRWcXcGQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBADI8uTdBzcL7U8l5wOG5yZCwU+6t+j2BJ7Wl1PkpyIvajO4f7ZxC/qqsGwdBdSJXzsrPeL8wMmK2SbZ2d6GzeSYx06VYlVc1t/gN4dooxvswlOOPhYL0dk0yB90c8jRNy94utaqp2kAY6j6u6nV2mOhpWB4hO29dgBkcfPCMzqQS</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+</asmv1:assembly>

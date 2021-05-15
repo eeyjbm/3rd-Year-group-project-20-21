@@ -15,7 +15,7 @@
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <PublishUrl>C:\Users\Jacob Monger\Documents\Installer\</PublishUrl>
+    <PublishUrl>C:\Users\Jacob Monger\Desktop\Installer\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -24,14 +24,12 @@
     <UpdateIntervalUnits>Days</UpdateIntervalUnits>
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
-    <MapFileExtensions>true</MapFileExtensions>
-    <UpdateUrl>http://localhost/autoupdate/</UpdateUrl>
+    <MapFileExtensions>false</MapFileExtensions>
     <ProductName>Formula Student Base Station</ProductName>
     <PublisherName>Jacob Monger</PublisherName>
     <MinimumRequiredVersion>1.0.0.10</MinimumRequiredVersion>
-    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
-    <WebPage>publish.htm</WebPage>
-    <ApplicationRevision>0</ApplicationRevision>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <ApplicationRevision>7</ApplicationRevision>
     <ApplicationVersion>2.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
@@ -58,7 +56,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>62ACE52C8A6233F46B29694A95FF896E98689874</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>47942F56201C8A28BC9A8B6E0A4D5BDC6EBCA33A</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestKeyFile>Formula Student Base Station_TemporaryKey.pfx</ManifestKeyFile>

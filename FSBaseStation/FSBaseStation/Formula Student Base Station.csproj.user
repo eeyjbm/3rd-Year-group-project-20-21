@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <PublishUrlHistory>C:\Users\Jacob Monger\Documents\Installer\|C:\publish\|C:\Users\Jacob Monger\Desktop\test2\FSBaseStation\</PublishUrlHistory>
+    <PublishUrlHistory>C:\Users\Jacob Monger\Desktop\Installer\|C:\Users\Jacob Monger\Documents\Installer\|C:\publish\|C:\Users\Jacob Monger\Desktop\test2\FSBaseStation\</PublishUrlHistory>
     <InstallUrlHistory>http://localhost/autoupdate/</InstallUrlHistory>
     <SupportUrlHistory />
     <UpdateUrlHistory>http://localhost/autoupdate/</UpdateUrlHistory>
     <BootstrapperUrlHistory />
     <ErrorReportUrlHistory />
     <FallbackCulture>en-US</FallbackCulture>
-    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
   </PropertyGroup>
   <PropertyGroup>
     <EnableSecurityDebugging>false</EnableSecurityDebugging>

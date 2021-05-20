@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\obj\Debug\
+C:\Users\Jacob Monger\Documents\Base Station done\3rd-Year-group-project-20-21\FSBaseStation\FSBaseStation\obj\Debug\
 FSBaseStation
 none
 false
 DEBUG;TRACE
-C:\Users\Jacob Monger\Documents\FSBaseStation\FSBaseStation\App.xaml
+C:\Users\Jacob Monger\Documents\Base Station done\3rd-Year-group-project-20-21\FSBaseStation\FSBaseStation\App.xaml
 10-128534548
 
-32-586272979
-151965752003
+31256086388
+15-969802838
 MainWindow.xaml;Views\AlertView.xaml;Views\ConnectView.xaml;Views\DashboardView.xaml;Views\ECUView.xaml;Views\KistlerView.xaml;Views\LeftInverterView.xaml;Views\RightInverterView.xaml;Views\SettingsView.xaml;Views\TemperatureView.xaml;
 
-True
+False
 
